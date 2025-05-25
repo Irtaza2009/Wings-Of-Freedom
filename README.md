@@ -3,7 +3,8 @@
 A keychain with the **Wings of Freedom** (the symbol for the Scout Regiment) from **Attack on Titan**!
 
 ## 3d View
-![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45e4ccbc64edbb12e87f4b42fd762576d9ef0551_wof_3d.png)
+![3d Model front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e39f51e70cad6909fe93d16abfd4dd242afd9df9_image.png)
+![3d Model KiCAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45e4ccbc64edbb12e87f4b42fd762576d9ef0551_wof_3d.png)
 
 ## Schematic
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d78668fb73767d92974c18dcf4e2ff1ad4dd2e66_wof_schematic.png)
